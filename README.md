@@ -47,6 +47,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zerone1202&theme=tokyonight&column=6&margin-w=15&margin-h=15" />
   <br/><br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zerone1202&theme=tokyonight&hide_border=true" />
+  <br/>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerone1202&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerone1202&layout=compact&theme=tokyonight)
 
